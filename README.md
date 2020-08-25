@@ -7,7 +7,7 @@
 - 👯 I am collaborating on a school project, and I am open to any request
 - 👇 How to reach me:
     * Emails: jardimbgustavo@gmail.com or gustavo.jardim@etec.sp.gov.br
-    * Twiter: https://twitter.com/GustavoBizo
+    [![Twitter Badge](https://img.shields.io/badge/-@GustavoBizo-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/GustavoBizo)](https://twitter.com/GustavoBizo)
      [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gustavo_bizo)](https://www.instagram.com/gustavo_bizo/)
 
 Maybe my repositories will help you 😉
