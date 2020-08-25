@@ -1,5 +1,6 @@
 ### Hi there my name is Gustavo👋
 
+[![GitHub gbiz0](https://img.shields.io/github/followers/gbiz0?label=follow&style=social)](https://github.com/gbiz0)
   "Just do it"
   
 - 🔭 I’m currently studying at ETEC-138 Profº Armando José Farinazzo 
