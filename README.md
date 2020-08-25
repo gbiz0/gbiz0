@@ -5,7 +5,7 @@
   "Just do it"
   
 - 🔭 I’m currently studying at ETEC-138 Profº Armando José Farinazzo 
-- 🌱 I’m currently learning Web developer, Software Engineering and Computer Science
+- 🌱 I’m currently learning Web development, Software Engineering and Computer Science
 - 👯 I am collaborating on a school project, and I am open to any request
 - 👇 How to reach me:
 
