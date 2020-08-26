@@ -12,6 +12,7 @@
     [![Gmail Badge](https://img.shields.io/badge/-jardimbgustavo@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jardimbgustavo@gmail.com)](mailto:jardimbgustavo@gmail.com)
     [![Twitter Badge](https://img.shields.io/badge/-@GustavoBizo-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/GustavoBizo)](https://twitter.com/GustavoBizo)
      [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gustavo_bizo)](https://www.instagram.com/gustavo_bizo/)
+     [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-bizo-jardim-0b082319a/)](https://www.linkedin.com/in/gustavo-bizo-jardim-0b082319a/) 
 
 Maybe my repositories will help you 😉
 
