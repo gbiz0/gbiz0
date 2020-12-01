@@ -10,9 +10,11 @@
 - 👇 How to reach me:
 
     [![Gmail Badge](https://img.shields.io/badge/-gustavo.jardim@etec.sp.gov.br-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.jardim@etec.sp.gov.br)](mailto:gustavo.jardim@etec.sp.gov.br)
-    [![Twitter Badge](https://img.shields.io/badge/-@GustavoBizo-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/GustavoBizo)](https://twitter.com/GustavoBizo)
      [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gustavo_bizo)](https://www.instagram.com/gustavo_bizo/)
      [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-bizo-jardim-0b082319a/)](https://www.linkedin.com/in/gustavo-bizo-jardim-0b082319a/) 
 
 Maybe my repositories will help you 😉
+
+#### **Visitors on my profile**
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gbiz0)
 
