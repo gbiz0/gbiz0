@@ -20,7 +20,7 @@
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gbiz0&&show_icons=true&theme=dracula" alt="Gustavo Bizo Jardim's Github Stats" alt="Gustavo Bizo Jardim's Github Status" />
   </p>
-</details>
+</details> 
 
 Maybe my repositories will help you 😉
 
