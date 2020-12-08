@@ -4,7 +4,7 @@
   
   "Just do it"
   
-- 🔭 I’m currently studying at [https://etecfernandopolis.com.br/site/inicio/](https://www.google.com/)
+- 🔭 I’m currently studying at [ETEC-138 Profº Armando José Farinazzo](https://etecfernandopolis.com.br/site/inicio/)
 - 🌱 I’m currently learning Web development, Software Engineering and Computer Science
 - 👯 I am collaborating on a school project, and I am open to any request
 - 👇 How to reach me:
