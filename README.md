@@ -9,9 +9,9 @@
 - 👯 I am collaborating on a school project, and I am open to any request
 - 👇 How to reach me:
 
-    [![Gmail Badge](https://img.shields.io/badge/-gustavo.jardim@etec.sp.gov.br-purple?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.jardim@etec.sp.gov.br)](mailto:gustavo.jardim@etec.sp.gov.br)
-     [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gustavo_bizo)](https://www.instagram.com/gustavo_bizo/)
-     [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-bizo-jardim-0b082319a/)](https://www.linkedin.com/in/gustavo-bizo-jardim-0b082319a/) 
+    [![Gmail Badge](https://img.shields.io/badge/purple?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.jardim@etec.sp.gov.br)](mailto:gustavo.jardim@etec.sp.gov.br)
+     [![Instagram Badge](https://img.shields.io/badge/purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gustavo_bizo)](https://www.instagram.com/gustavo_bizo/)
+     [![Linkedin Badge](https://img.shields.io/badge/purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-bizo-jardim-0b082319a/)](https://www.linkedin.com/in/gustavo-bizo-jardim-0b082319a/) 
      
      <details>
   <summary>My Github Stats</summary>
