@@ -13,12 +13,11 @@
      [![Instagram Badge](https://img.shields.io/badge/--purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gustavo_bizo)](https://www.instagram.com/gustavo_bizo/)
      [![Linkedin Badge](https://img.shields.io/badge/--purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-bizo-jardim-0b082319a/)](https://www.linkedin.com/in/gustavo-bizo-jardim-0b082319a/) 
      
-     <details>
+<details>
   <summary>My Github Stats</summary>
   <br>
-
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gbiz0&&show_icons=true&theme=dracula" alt="Gustavo Bizo Jardim's Github Stats" alt="Gustavo Bizo Jardim's Github Status" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gbiz0&show_icons=true&theme=dracula" alt="Gustavo Bizo Jardim's Github Stats" alt="Gustavo Bizo Jardim's Github Status"/>
   </p>
 </details> 
 
