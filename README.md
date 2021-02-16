@@ -2,7 +2,7 @@
 
 [![GitHub gbiz0](https://img.shields.io/github/followers/gbiz0?label=follow&style=social)](https://github.com/gbiz0)
   
-  "Just do it"
+  Better than yesterday
   
 - 🔭 I’m currently studying at [ETEC-138 Profº Armando José Farinazzo](https://etecfernandopolis.com.br/site/inicio/)
 - 🌱 I’m currently learning Web development, Software Engineering and Computer Science
