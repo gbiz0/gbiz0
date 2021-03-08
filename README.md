@@ -2,7 +2,7 @@
 
 [![GitHub gbiz0](https://img.shields.io/github/followers/gbiz0?label=follow&style=social)](https://github.com/gbiz0)
   
-  Better than yesterday
+  "Better than yesterday"
   
 Currently studying High School and Software development at [ETEC-138 Profº Armando José Farinazzo](https://etecfernandopolis.com.br/site/inicio/)
 
