@@ -19,6 +19,10 @@ Currently studying High School and Software development at [ETEC-138 Profº Arma
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gbiz0&&show_icons=true&theme=dracula" alt="Gustavo Bizo Jardim's Github Stats" alt="Gustavo Bizo Jardim's Github Status" />
   </p>
+      <img
+      height="150px"
+      src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=gbiz0&layout=compact&theme=dark"
+  /></a>
 </details> 
 
 Maybe my repositories will help you 😉
