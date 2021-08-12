@@ -11,10 +11,10 @@ Currently studying High School and Software development at [ETEC-138 Profº Arma
 <img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img align="left" src="https://img.shields.io/badge/Java-bf4080?style=for-the-badge&logo=sass&logoColor=F577B7"/>
-<img align="left" src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
+<img align="left" src="https://img.shields.io/badge/Java-bf4080?style=for-the-badge&logo=java&logoColor=F577B7"/>
+<img align="left" src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white"/><br>
 
-- 👇 How to reach me:
+- ## How to reach me 🚀
 
     [![Gmail Badge](https://img.shields.io/badge/--purple?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.jardim@etec.sp.gov.br)](mailto:gustavo.jardim@etec.sp.gov.br)
      [![Instagram Badge](https://img.shields.io/badge/--purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gustavo_bizo)](https://www.instagram.com/gustavo_bizo/)
