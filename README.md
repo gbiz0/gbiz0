@@ -1,4 +1,4 @@
-### Hi there my name is Gustavo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+### Hi there, my name is Gustavo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
 [![GitHub gbiz0](https://img.shields.io/github/followers/gbiz0?label=follow&style=social)](https://github.com/gbiz0)
   
@@ -16,7 +16,7 @@ Currently studying High School and Software development at [ETEC-138 Profº Arma
 
 -  ##How to reach me 🚀
 
-    <a href="https://www.linkedin.com/in/gustavo_bizo""_blank">
+    <a href="https://www.linkedin.com/in/gustavo_bizo" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
  <a href="https://www.instagram.com/gustavo_bizo/" target="_blank">
