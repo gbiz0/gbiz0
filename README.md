@@ -6,7 +6,7 @@
   
 Currently studying High School and Software development at [ETEC-138 Profº Armando José Farinazzo](https://etecfernandopolis.com.br/site/inicio/)
 
-## Skills 🚀
+- ##Skills 🚀
 
 <img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -14,13 +14,18 @@ Currently studying High School and Software development at [ETEC-138 Profº Arma
 <img align="left" src="https://img.shields.io/badge/Java-bf4080?style=for-the-badge&logo=java&logoColor=F577B7"/>
 <img align="left" src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white"/><br>
 
-- ## How to reach me 🚀
+-  ##How to reach me 🚀
 
-    [![Gmail Badge](https://img.shields.io/badge/--purple?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.jardim@etec.sp.gov.br)](mailto:gustavo.jardim@etec.sp.gov.br)
-     [![Instagram Badge](https://img.shields.io/badge/--purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gustavo_bizo)](https://www.instagram.com/gustavo_bizo/)
-     [![Linkedin Badge](https://img.shields.io/badge/--purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-bizo-jardim-0b082319a/)](https://www.linkedin.com/in/gustavo-bizo-jardim-0b082319a/) 
+    <a href="https://www.linkedin.com/in/gustavo_bizo"_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ <a href="https://www.instagram.com/gustavo_bizo/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+ <a href="mailto:gustavo.jardim@etec.sp.gov.br">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />        
+  </a>&nbsp;&nbsp; 
      
-     <details>
   <summary>My Github Stats</summary>
   <br>
 
@@ -37,4 +42,3 @@ Maybe my repositories will help you 😉
 
 #### **Visitors on my profile**
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gbiz0)
-
