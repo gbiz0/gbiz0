@@ -35,7 +35,6 @@ Currently studying High School and Software development at [ETEC-138 Profº Arma
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gbiz0&&show_icons=true&theme=midnight-purple" alt="Gustavo Bizo Jardim's Github Stats" alt="Gustavo Bizo Jardim's Github Status" />
       <img align="center"
       height="150px"
-      src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=gbiz0&layout=compact&theme=midnight-purple"
   /></a>
   </p>
 </details> 
