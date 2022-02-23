@@ -27,12 +27,9 @@ Currently studying High School and Software development at [ETEC-138 Profº Arma
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />        
   </a>&nbsp;&nbsp; 
 
-
-  <summary>My Github Stats</summary>
-  <br>
-
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gbiz0&&show_icons=true&theme=midnight-purple" alt="Gustavo Bizo Jardim's Github Stats" alt="Gustavo Bizo Jardim's Github Status" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbiz0&layout=compact&langs_count=7&theme=midnight-purple"/>
       <img align="center"
       height="150px"
   /></a>
