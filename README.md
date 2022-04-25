@@ -31,7 +31,7 @@ Currently studying High School and Software development at [ETEC-138 Profº Arma
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
  <a href="mailto:gustavobizo@protonmail.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />        
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=protonmail&logoColor=white" />        
 
 </details> 
 
