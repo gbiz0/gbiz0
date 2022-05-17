@@ -33,7 +33,7 @@ Currently studying High School and Software development at [ETEC-138 Profº Arma
  <a href="mailto:gustavobizo@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-0078D4?style=for-the-badge&logo=protonmail&logoColor=white" />
    </a>&nbsp;&nbsp;
-  <a href="[https://github.com/gbiz0/gbiz0/files/8710124/Gustavo_Bizo_Jardim.pdf" target="_blank">MEU CÚRRICULO </a>
+  <a href="[https://github.com/gbiz0/gbiz0/files/8710124/Gustavo_Bizo_Jardim.pdf">MEU CÚRRICULO</a>
 
 </details> 
 
