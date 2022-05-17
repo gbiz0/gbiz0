@@ -31,7 +31,11 @@ Currently studying High School and Software development at [ETEC-138 Profº Arma
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
  <a href="mailto:gustavobizo@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-0078D4?style=for-the-badge&logo=protonmail&logoColor=white" />        
+    <img src="https://img.shields.io/badge/ProtonMail-0078D4?style=for-the-badge&logo=protonmail&logoColor=white" />
+   </a>&nbsp;&nbsp;
+  <a href="download/Gustavo_Bizo_Jardim.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/<CURRÍCULO>-<white>" />
+  </a>&nbsp;&nbsp;
 
 </details> 
 
@@ -39,3 +43,4 @@ Currently studying High School and Software development at [ETEC-138 Profº Arma
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gbiz0)
 
 <p>Maybe my repositories will help you 😉</p>
+[Gustavo_Bizo_Jardim.pdf](https://github.com/gbiz0/gbiz0/files/8710124/Gustavo_Bizo_Jardim.pdf)
