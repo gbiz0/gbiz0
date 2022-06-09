@@ -1,4 +1,4 @@
-### Hi there, my name is Gustavo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+### Hi there, my name is Gustavo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1000px"> 
 
 [![GitHub gbiz0](https://img.shields.io/github/followers/gbiz0?label=follow&style=social)](https://github.com/gbiz0)
   
