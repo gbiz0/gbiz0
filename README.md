@@ -4,7 +4,6 @@
   
   "Better than yesterday"
   
-Currently studying High School and Software development at [ETEC-138 Profº Armando José Farinazzo](https://etecfernandopolis.com.br/site/inicio/)
   </a>&nbsp;&nbsp; 
 
 <div align="center">    
@@ -35,7 +34,7 @@ Currently studying High School and Software development at [ETEC-138 Profº Arma
    </a>&nbsp;&nbsp;
    <br>
    <br>
-  <a href="https://github.com/gbiz0/gbiz0/files/8710124/Gustavo_Bizo_Jardim.pdf">
+  <a href="https://github.com/gbiz0/gbiz0/files/10568580/GustavoBizoJardim.pdf">
     <img src="https://img.shields.io/badge/curriculum-%23E4405F.svg?&style=for-the-badge&logo=paper&logoColor=white" />
    </a>
 
