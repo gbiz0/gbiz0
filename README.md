@@ -34,7 +34,7 @@
    </a>&nbsp;&nbsp;
    <br>
    <br>
-  <a href="[Gustavo Bizo.pdf](https://github.com/gbiz0/gbiz0/files/11070577/Gustavo.Bizo.pdf)">
+  <a href="https://github.com/gbiz0/gbiz0/files/11070577/Gustavo.Bizo.pdf">
     <img src="https://img.shields.io/badge/curriculum-%23E4405F.svg?&style=for-the-badge&logo=paper&logoColor=white" />
    </a>
 
