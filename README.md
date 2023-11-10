@@ -11,17 +11,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbiz0&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-## Skills 🚀
-
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/><br>
-</div>
-
  ## How to reach me 🔎
 
 <a href="https://www.linkedin.com/in/gustavo-bizo-jardim-0b082319a/" target="_blank">
@@ -35,7 +24,7 @@
    </a>&nbsp;&nbsp;
    <br>
    <br>
-  <a href="https://github.com/gbiz0/gbiz0/files/11070577/Gustavo.Bizo.pdf">
+  <a href="https://github.com/gbiz0/gbiz0/files/13319524/GustavoBizo.pdf">
     <img src="https://img.shields.io/badge/curriculum-%23E4405F.svg?&style=for-the-badge&logo=paper&logoColor=white" />
    </a>
 
