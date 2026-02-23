@@ -4,12 +4,7 @@
   
   "Better than yesterday"
   
-  </a>&nbsp;&nbsp; 
-
-<div align="center">    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbiz0&&show_icons=true&theme=midnight-purple" alt="Gustavo Bizo Jardim's Github Stats" alt="Gustavo Bizo Jardim's Github Status" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbiz0&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+  </a>&nbsp;&nbsp;
 
  ## How to reach me 🔎
 
