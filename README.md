@@ -21,10 +21,9 @@
   </a>&nbsp;&nbsp;
  <a href="mailto:gustavobizo@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-0078D4?style=for-the-badge&logo=protonmail&logoColor=white" />
-   </a>&nbsp;&nbsp;
    <br>
    <br>
-  <a href="https://github.com/gbiz0/gbiz0/files/13319524/GustavoBizo.pdf">
+  <a href="https://github.com/user-attachments/files/25484818/GustavoBizoCV.pdf">
     <img src="https://img.shields.io/badge/curriculum-%23E4405F.svg?&style=for-the-badge&logo=paper&logoColor=white" />
    </a>
 
